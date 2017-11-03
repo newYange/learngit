@@ -1,0 +1,2 @@
+test if branches use one work and stage directory
+looks like it's true
