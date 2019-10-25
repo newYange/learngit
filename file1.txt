@@ -1,1 +1,2 @@
 add new line after git add
+master modify at the same time
